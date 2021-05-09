@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello rk40
+=======
+new rk40 enhancement
+>>>>>>> c31a40b9c81ea66a612d7a96655fca8663e3bcc5
